@@ -40,8 +40,7 @@ A web application developed using Python Django and SQLite.
 - CSS
 - MySQl
 
-
-
+🔗 Project Link: https://github.com/Kanimozhi2009/college-management-system
 ---
 
 ## ✨ Quote
